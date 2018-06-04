@@ -1,0 +1,11 @@
+D:\Code\Study\Language\IDisposable\IDisposableDemo\bin\Debug\netcoreapp2.0\IDisposableDemo.deps.json
+D:\Code\Study\Language\IDisposable\IDisposableDemo\bin\Debug\netcoreapp2.0\IDisposableDemo.runtimeconfig.json
+D:\Code\Study\Language\IDisposable\IDisposableDemo\bin\Debug\netcoreapp2.0\IDisposableDemo.runtimeconfig.dev.json
+D:\Code\Study\Language\IDisposable\IDisposableDemo\bin\Debug\netcoreapp2.0\IDisposableDemo.dll
+D:\Code\Study\Language\IDisposable\IDisposableDemo\bin\Debug\netcoreapp2.0\IDisposableDemo.pdb
+D:\Code\Study\Language\IDisposable\IDisposableDemo\obj\Debug\netcoreapp2.0\IDisposableDemo.csprojAssemblyReference.cache
+D:\Code\Study\Language\IDisposable\IDisposableDemo\obj\Debug\netcoreapp2.0\IDisposableDemo.csproj.CoreCompileInputs.cache
+D:\Code\Study\Language\IDisposable\IDisposableDemo\obj\Debug\netcoreapp2.0\IDisposableDemo.AssemblyInfoInputs.cache
+D:\Code\Study\Language\IDisposable\IDisposableDemo\obj\Debug\netcoreapp2.0\IDisposableDemo.AssemblyInfo.cs
+D:\Code\Study\Language\IDisposable\IDisposableDemo\obj\Debug\netcoreapp2.0\IDisposableDemo.dll
+D:\Code\Study\Language\IDisposable\IDisposableDemo\obj\Debug\netcoreapp2.0\IDisposableDemo.pdb
